@@ -4,8 +4,9 @@
 ## How to run the code?
 1. Clone this repo to your local machine
 2. Make sure you have glut and glm libraries installed.
-3. We will first move into build folder so that all our makefiles reside in there
+3. We will first make a build folder and then move into it so that all our makefiles reside in there. Type the below commands in your terminal
 
+        mkdir build
         cd build
 4. Next we use the cmake list given to us and create an executable
 
